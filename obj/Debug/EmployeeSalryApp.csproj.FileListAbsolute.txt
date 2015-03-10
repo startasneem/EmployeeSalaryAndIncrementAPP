@@ -1,0 +1,9 @@
+f:\practiceforbasis\visual studio 2013\Projects\EmployeeSalryApp\EmployeeSalryApp\bin\Debug\EmployeeSalryApp.exe.config
+f:\practiceforbasis\visual studio 2013\Projects\EmployeeSalryApp\EmployeeSalryApp\bin\Debug\EmployeeSalryApp.exe
+f:\practiceforbasis\visual studio 2013\Projects\EmployeeSalryApp\EmployeeSalryApp\bin\Debug\EmployeeSalryApp.pdb
+f:\practiceforbasis\visual studio 2013\Projects\EmployeeSalryApp\EmployeeSalryApp\obj\Debug\EmployeeSalryApp.csprojResolveAssemblyReference.cache
+f:\practiceforbasis\visual studio 2013\Projects\EmployeeSalryApp\EmployeeSalryApp\obj\Debug\EmployeeSalryApp.EmployeeSalaryUI.resources
+f:\practiceforbasis\visual studio 2013\Projects\EmployeeSalryApp\EmployeeSalryApp\obj\Debug\EmployeeSalryApp.Properties.Resources.resources
+f:\practiceforbasis\visual studio 2013\Projects\EmployeeSalryApp\EmployeeSalryApp\obj\Debug\EmployeeSalryApp.csproj.GenerateResource.Cache
+f:\practiceforbasis\visual studio 2013\Projects\EmployeeSalryApp\EmployeeSalryApp\obj\Debug\EmployeeSalryApp.exe
+f:\practiceforbasis\visual studio 2013\Projects\EmployeeSalryApp\EmployeeSalryApp\obj\Debug\EmployeeSalryApp.pdb
